@@ -12,3 +12,7 @@ It is a Block Element.
 ## Span Elements
 Span Elements are also generic containers used to hold other HTML elements or group elements together.
 It is an Inline Element.
+
+## Horizontal Rule (HR) Element
+This tag in HTML is used to create a horizontal line or a divider between sections of content. Kind off like adding breaks or divisions on the page.
+
