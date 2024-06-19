@@ -18,3 +18,9 @@ This tag in HTML is used to create a horizontal line or a divider between sectio
 
 ## Superscript (sup) and Subscript (sub) Elements
 These elements are used to create superscript and subscript text respectively.
+
+## Semantic Markup in HTML
+Semantic Markup is a way of writing HTML that emphasizes the meaning of the content, rather than its presentation.
+Meaning those types of tags jinko padhte hi samhaj aajaaye ki isme konsa type ka content store hota hai.
+Examples of Semantic Elements - header, nav, main, section, article, aside, footer, figure.
+These elements provide meaning to the structure of a web page, making it easier for search engines (SEO Friendly) and screen readers to understand the content and layout of the page.
