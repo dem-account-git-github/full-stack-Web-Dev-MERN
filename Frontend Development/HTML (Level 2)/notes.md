@@ -16,3 +16,5 @@ It is an Inline Element.
 ## Horizontal Rule (HR) Element
 This tag in HTML is used to create a horizontal line or a divider between sections of content. Kind off like adding breaks or divisions on the page.
 
+## Superscript (sup) and Subscript (sub) Elements
+These elements are used to create superscript and subscript text respectively.
